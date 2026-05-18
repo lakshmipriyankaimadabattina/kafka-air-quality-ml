@@ -136,11 +136,7 @@ kafka-ml-pipeline/
 ---
 
 ## Video Demo
-
-[Link to video demo — YouTube Unlisted / Google Drive]
-
-> Shows all three terminals running simultaneously with live predictions printing in consumer terminal.
-
+https://drive.google.com/file/d/19HJUl9mwl07WASNs5-F5ELimEHxwC03Y/view?usp=sharing
 ---
 
 ## Notes
