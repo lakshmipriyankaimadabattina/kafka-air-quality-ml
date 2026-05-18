@@ -62,7 +62,7 @@ The model is trained offline (`train_model.py`) and loaded once at Faust process
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kafka-ml-pipeline.git
+git clone https://github.com/lakshmipriyankaimadabattina/kafka-ml-pipeline.git
 cd kafka-ml-pipeline
 ```
 
